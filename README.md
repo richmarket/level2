@@ -1,5 +1,6 @@
 # level2
 level2
+                    
                     /*temp_x market行情快照结构
                     temp_x[0] 000002.SZ  标准代码
                     temp_x[1] 000002 代码
@@ -25,7 +26,6 @@ level2
                     temp_x[57] 涨停价
                     temp_x[58] 跌停价                                                        
                     */
-                    
                     /*temp_x tran 逐笔成交结构
                     temp_x[0] 000002.SZ  标准代码
                     temp_x[1] 000002 代码
